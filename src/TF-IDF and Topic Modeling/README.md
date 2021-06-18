@@ -6,7 +6,7 @@
 3. 在清理Stopwords的時候，我們加入了針對本次文本需要移除的字(`other_stopwords <- c("de", "von", "er", "mo", "hl", "ly", "ter", "zu", "ye", "da", "la", "aide", "thou", "thy")`)進行清理
 
 ### TF-IDF
-1. 在function `make_plot`中，我們對文本進行tokenize以及lemmatize，並移除數字和大寫開頭的名字及地名；將清理乾淨的文本以`bind_tf_idf`函數做出tf-idf的分析，最後以`ggplot`繪製成長條圖
+1. 在function `make_plot`中，我們對文本進行tokenize以及lemmatize，並移除數字和大寫開頭的名字及地名；將清理乾淨的文本以`bind_tf_idf`函數做出tf-idf的分析，最後以`ggplot2`繪製成長條圖
 2. 繪製關鍵字數量為5-15的長條圖
 
 ### Topic Modeling
