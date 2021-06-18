@@ -14,7 +14,7 @@ G02 SheryDon'tGo
 
 <!-- 請記得修改下方的相對路徑及連結 -->
 
-- [投影片](./G2_slides.pdf)
+- [投影片](./G02_slides.pdf)
 - [書面報告](./G25_report.pdf)  
 - [Shiny App](#若沒有可以拿掉)
 
