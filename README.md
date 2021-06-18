@@ -36,12 +36,6 @@ G02 SherryDon'tGo
     - 格式：`.pdf` (如果是其它檔案格式，如 `.pptx`，請先轉換成 PDF 檔再放上來)
 - [ ] 其它相關內容 (e.g., 專案網站、Shiny App 等) 請以**連結**的方式，放在這份 README.md 的 `## 連結` 部份
 
-
-### 期末專案範例
-
-若仍不清楚 repo 結構的規定或對如何組織 `src/` 沒有頭緒，可參考 [TA 示範專案](https://github.com/rlads2021/TA-project)。
-
-
 ## 參考模板
 
 原則上，投影片以及書面報告的製作方式並無限制 (但最後檔案需轉換成 PDF 檔)。有興趣的同學可以使用 R Markdown 撰寫書面報告與製作投影片。R Markdown 非常適合用於這個情況，因為它可動態插入程式執行的結果，所以若製作報告過程中，發現需要修改程式碼，就不須重新輸出圖片、再將其插入檔案之中。同學可以參考 [pagedown](https://github.com/rstudio/pagedown) 的[書面報告模板](https://github.com/rlads2021/TA-project/tree/main/src/report)。
