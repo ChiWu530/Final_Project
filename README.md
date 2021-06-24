@@ -15,5 +15,5 @@ G02 SherryDon'tGo
 
 - [投影片](./G02_slides.pdf)
 - [書面報告](./G02_report.pdf)  
-- [Shiny App](#若沒有可以拿掉)
+- [Shiny App](https://amy-0118-72.shinyapps.io/shiny2/)
 
